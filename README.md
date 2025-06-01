@@ -27,7 +27,7 @@ Aspiring Full-Stack Developer 💻 with a strong passion for development and con
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
 <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"> 
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=blender&logoColor=white"> 
+<img src="https://img.shields.io/badge/Blender-%23313131.svg?logo=blender&logoColor=orange"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
 ## GitHub Stats
